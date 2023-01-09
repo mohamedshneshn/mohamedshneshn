@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello World, I'm Mohamed Shneshn👋
 
-<!--
-**mohamedshneshn/mohamedshneshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Software Developer, Gym Lover, EDM Music Producer!
+Here are some interesting facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 You can find my projects here Portfolio
+🌱 I’m currently an enthusiast in JavaScript, React, Python, and web development
+💞️ I’m looking to collaborate on making technology accessible and building community feelings in tech
+👯 I’m looking to collaborate on open source
+How to reach me: ...LinkedIn
+💬 Ask me about ... Anything
+⚡ Fun fact: Use to be a Full-Time Banker, self-taught DJ & EDM Musician -->
