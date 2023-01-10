@@ -28,7 +28,6 @@ I am a full-stack developer with experience in the MERN stack (MongoDB, Express.
 
 ## Contact Me
 
-If you're interested in working with me, feel free to reach out to me via my email or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-shneshn-a9188094/). I'd be happy to discuss potential opportunities and share more about my experience and skills.
+If you're interested in working with me, feel free to reach out to me via my [email](mailto:eng.mohamed.shneshn@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-shneshn-a9188094/). I'd be happy to discuss potential opportunities and share more about my experience and skills.
 
-Email: eng.mohamed.shneshn@gmail.com
 
