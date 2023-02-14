@@ -7,8 +7,8 @@ I am a full-stack developer with experience in the MERN stack (MongoDB, Express.
 
 ### Expense Tracker Website
 - It is a web application that allows users to track their expenses and incomes by adding, editing, and deleting transactions, and see their balance and   also see their expenses and incomes in a chart.
-- A link to the project's GitHub repository [Expense-Tracker-Client](https://github.com/mohamedshneshn/expense-tracker-client){:target="_blank"},[Expense-Tracker-Server](https://github.com/mohamedshneshn/expense-tracker-server){:target="_blank"}
-- A link to the project's live site [Expense-Tracker](https://expence-tracker-mohamed.netlify.app/login){:target="_blank"}
+- A link to the project's GitHub repository [Expense-Tracker-Client](https://github.com/mohamedshneshn/expense-tracker-client){:target="_blank"},[Expense-Tracker-Server](https://github.com/mohamedshneshn/expense-tracker-server){:target="_blank" rel="noopener"}
+- A link to the project's live site [Expense-Tracker](https://expence-tracker-mohamed.netlify.app/login){:target="_blank" rel="noopener"}
 - The technologies used (MERN stack, plus any others)
 
 ### Project 2
