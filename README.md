@@ -13,9 +13,9 @@ I am a full-stack developer with experience in the MERN stack (MongoDB, Express.
 
 ### Simon Game
 - It is a web application that allows users to play the Simon game.
-- The technologies used (HTML, CSS, JavaScript, jQuery)
-- A link to the project's GitHub repository [Simon-Game](https://github.com/mohamedshneshn/SimonGame)
-- A link to the project's live site [Simon-Game](https://mohamedshneshn.github.io/SimonGame/)
+- The technologies used (HTML, CSS, JavaScript, jQuery).
+- A link to the project's GitHub repository [Simon-Game](https://github.com/mohamedshneshn/SimonGame).
+- A link to the project's live site [Simon-Game](https://mohamedshneshn.github.io/SimonGame/).
 
 
 ## Skills
