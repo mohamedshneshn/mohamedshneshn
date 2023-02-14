@@ -1,4 +1,4 @@
-Hello World, I'm Mohamed Shneshn👋
+Hello World, I'm Mohamed Shneshn 👋
 
 
 I am a full-stack developer with experience in the MERN stack (MongoDB, Express.js, React.js, and Node.js). I have a passion for building scalable and efficient web applications. I am experienced in front-end and back-end development and I enjoy working on projects that require both skills.
@@ -8,6 +8,8 @@ I am a full-stack developer with experience in the MERN stack (MongoDB, Express.
 ### Expense Tracker Website
 - It is a web application that allows users to track their expenses and incomes by adding, editing, and deleting transactions, and see their balance and   also see their expenses and incomes in a chart.
 - A link to the project's GitHub repository [Expense-Tracker-Client](https://github.com/mohamedshneshn/expense-tracker-client),[Expense-Tracker-Server](https://github.com/mohamedshneshn/expense-tracker-server)
+- A link to the project's live site [Expense-Tracker](https://expence-tracker-mohamed.netlify.app/login)
+- The technologies used (MERN stack, plus any others)
 
 ### Project 2
 - A short description of the project
