@@ -11,10 +11,12 @@ I am a full-stack developer with experience in the MERN stack (MongoDB, Express.
 - A link to the project's live site with a demo account [Expense-Tracker](https://expence-tracker-mohamed.netlify.app/login).
 - The technologies used (MERN stack, plus any others).
 
-### Project 2
-- A short description of the project
-- The technologies used (MERN stack, plus any others)
-- A link to the project's GitHub repository
+### Simon Game
+- It is a web application that allows users to play the Simon game.
+- The technologies used (HTML, CSS, JavaScript, jQuery)
+- A link to the project's GitHub repository [Simon-Game](https://github.com/mohamedshneshn/SimonGame)
+- A link to the project's live site [Simon-Game](https://mohamedshneshn.github.io/SimonGame/)
+
 
 ## Skills
 
